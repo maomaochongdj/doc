@@ -4,7 +4,7 @@
 
 ## 使用服务资源中心
 
-* [简介](shi-yong-fu-wu-zi-yuan-zhong-xin/jian-jie.md)
+* [服务资源中心简介](shi-yong-fu-wu-zi-yuan-zhong-xin/fu-wu-zi-yuan-zhong-xin-jian-jie.md)
 * [服务检索与发现](shi-yong-fu-wu-zi-yuan-zhong-xin/fu-wu-jian-suo-yu-fa-xian.md)
 * [服务详情](shi-yong-fu-wu-zi-yuan-zhong-xin/fu-wu-xiang-qing.md)
 * [服务申请与Token调用](shi-yong-fu-wu-zi-yuan-zhong-xin/fu-wu-shen-qing-yu-token-tiao-yong/README.md)
@@ -14,7 +14,7 @@
 
 ## 使用服务管理中心
 
-* [简介](shi-yong-fu-wu-guan-li-zhong-xin/jian-jie.md)
+* [服务管理中心简介](shi-yong-fu-wu-guan-li-zhong-xin/fu-wu-guan-li-zhong-xin-jian-jie.md)
 * [注册外部空间服务](shi-yong-fu-wu-guan-li-zhong-xin/zhu-ce-wai-bu-kong-jian-fu-wu.md)
 * [服务资源运维管理](shi-yong-fu-wu-guan-li-zhong-xin/fu-wu-zi-yuan-yun-wei-guan-li/README.md)
   * [服务目录运维](shi-yong-fu-wu-guan-li-zhong-xin/fu-wu-zi-yuan-yun-wei-guan-li/fu-wu-mu-lu-yun-wei.md)
