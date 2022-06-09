@@ -12,4 +12,3 @@
 
 ![descript](<../.gitbook/assets/1 (1)>)
 
-*

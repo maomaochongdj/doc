@@ -1,7 +1,6 @@
 # Table of contents
 
 * [智慧蓉城城市一张图服务资源中心](README.md)
-* [服务资源中心概述](fu-wu-zi-yuan-zhong-xin-gai-shu.md)
 
 ## 使用服务资源中心
 
