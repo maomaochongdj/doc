@@ -2,8 +2,4 @@
 
 ## 生成或编辑Token
 
-![descript](../../.gitbook/assets/2)
-
-
-
-![descript](<../../.gitbook/assets/4 (1)>)
+![编辑Token信息](../../.gitbook/assets/2)

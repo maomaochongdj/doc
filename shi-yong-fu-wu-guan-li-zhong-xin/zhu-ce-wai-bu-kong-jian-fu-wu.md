@@ -11,7 +11,7 @@
 3. 点击“注册外部空间服务”进入服务管理中心的注册页面
 4. 根据引导，选择服务类型，输入服务地址、服务名称
 
-![descript](../.gitbook/assets/4)
+![服务基本信息](../.gitbook/assets/4)
 
 示例：超图的三维服务，选择“SuperMap REST 3D服务”，输入地址：http://support.supermap.com.cn:8090/iserver/services/3D-CBD/rest/realspace
 
@@ -35,15 +35,4 @@
 
 ###
 
-### 数据来源与服务描述运维
-
-操作步骤：
-
-1. 数据来源：按照数据提供方单位名称填写
-2. 服务描述：按照服务里面包含的图层、要素等信息填写即可
-
-![descript](../.gitbook/assets/6)
-
-
-
-![descript](../.gitbook/assets/7)
+###

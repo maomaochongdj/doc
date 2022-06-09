@@ -7,6 +7,7 @@
 
 * [简介](shi-yong-fu-wu-zi-yuan-zhong-xin/jian-jie.md)
 * [服务检索与发现](shi-yong-fu-wu-zi-yuan-zhong-xin/fu-wu-jian-suo-yu-fa-xian.md)
+* [服务详情](shi-yong-fu-wu-zi-yuan-zhong-xin/fu-wu-xiang-qing.md)
 * [服务申请与Token调用](shi-yong-fu-wu-zi-yuan-zhong-xin/fu-wu-shen-qing-yu-token-tiao-yong/README.md)
   * [用户划分与各场景使用流程](shi-yong-fu-wu-zi-yuan-zhong-xin/fu-wu-shen-qing-yu-token-tiao-yong/yong-hu-hua-fen-yu-ge-chang-jing-shi-yong-liu-cheng.md)
   * [操作说明-生成或编辑Token](shi-yong-fu-wu-zi-yuan-zhong-xin/fu-wu-shen-qing-yu-token-tiao-yong/cao-zuo-shuo-ming-sheng-cheng-huo-bian-ji-token.md)
@@ -20,5 +21,6 @@
   * [标签运维](shi-yong-fu-wu-guan-li-zhong-xin/fu-wu-zi-yuan-yun-wei-guan-li/biao-qian-yun-wei.md)
   * [缩略图运维](shi-yong-fu-wu-guan-li-zhong-xin/fu-wu-zi-yuan-yun-wei-guan-li/suo-lve-tu-yun-wei.md)
   * [行政区划运维](shi-yong-fu-wu-guan-li-zhong-xin/fu-wu-zi-yuan-yun-wei-guan-li/hang-zheng-qu-hua-yun-wei.md)
+  * [数据来源与服务描述运维](shi-yong-fu-wu-guan-li-zhong-xin/fu-wu-zi-yuan-yun-wei-guan-li/shu-ju-lai-yuan-yu-fu-wu-miao-shu-yun-wei.md)
   * [服务目录运维](shi-yong-fu-wu-guan-li-zhong-xin/fu-wu-zi-yuan-yun-wei-guan-li/fu-wu-mu-lu-yun-wei.md)
   * [业务管理员审批服务](shi-yong-fu-wu-guan-li-zhong-xin/fu-wu-zi-yuan-yun-wei-guan-li/ye-wu-guan-li-yuan-shen-pi-fu-wu.md)
